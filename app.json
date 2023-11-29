@@ -1,5 +1,5 @@
 {
-  "name": "çavreş",
+  "name": "gameetelegram",
   "logo": "https://telegra.ph/file/dfa517fd00b6ca5f7ac9.jpg",
   "description": "Telegram kelime bilgi oyun",
   "env": {
@@ -13,11 +13,11 @@
     },
     "TOKEN": {
       "description": "@botfather den aldığınız tokeni giriniz",
-      "value": "6398477535:AAG2JDIkMw4bw6wIh-qIC8RhUTiJduQGp3Q"
+      "value": "6718278324:AAEPLJvFB9o8eL9ZeHaME69oVD5j89CUJKE"
     },
     "USERNAME": {
       "description": "Kullanıcı adınızı giriniz.",
-      "value": "rahatsizetmeyiniz"
+      "value": "rahatsizetmeyiniz34"
     },
     "OWNER_ID": {
       "description": "Bot Sahibinin İD girin.",
